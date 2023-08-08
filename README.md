@@ -1,2 +1,2 @@
 # SnakeG
-THIS Is snake game using web based.
+THIS Is web based snake game.
